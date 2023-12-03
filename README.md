@@ -43,11 +43,3 @@ The Stock Price Analysis Tool leverages Python and popular libraries like Pandas
 ## Contributing
 
 We welcome contributions! If you'd like to improve this tool, feel free to submit bug reports, feature requests, or pull requests. Follow the [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to customize this further based on additional details about your project.
